@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dr C Andrew Basham, PhD (@CAndrewBasham)  
-- 👀 Interested in causal inference epidemiology, health equity and intersectional demographic data missingness, c, survivorship, missing data methods, and 
+- 👀 Interested in causal inference epidemiology, health equity, survivorship, and real-world data evaluation.
 - 🌱 Currently learning structural missing data investigation methods0
 -  Seeking collaborators to establish survivorship epidemiology as a subspecialty.  
 - 📫 You can reach me via email\: git@andrewbasham.com
