@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Dr C Andrew Basham, PhD (@CAndrewBasham)  
-- 👀 Interested in causal inference epidemiology, health equity, survivorship, and real-world data evaluation.
-- 🌱 Currently learning structural missing data investigation methods0
--  Seeking collaborators to establish survivorship epidemiology as a subspecialty.  
-- 📫 You can reach me via email\: git@andrewbasham.com
-- 😄 Pronouns: he/him/his
+- Hi, my name is C Andrew Basham (he/him/his)
+- I publish academic research in pharmacoepidemiology, health equity, critical illness survivorship, and real-world data evaluation.
+- This GitHub was created to store and share analysis code from my research but it continues to evolve and expand
+- Please feel free to email me here with any questions, comments, and/or errors: git@andrewbasham.com
+- 
+- Target Trial Emulation
+A Framework for Causal Inference From Observational Data
 
 
 <!---
