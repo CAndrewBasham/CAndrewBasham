@@ -1,3 +1,27 @@
-- Hi, my name is C Andrew Basham (he/him/his)
-- I conduct causal inference epidemiological research into drug safety, health equity, and critical illness survivorship, specializing in real-world data (RWD).
-- Please feel free to email me here with any questions, comments, and/or errors: git@andrewbasham.com
+Thank you for visiting my GitHub Profile! 
+
+Hi, my name is C Andrew Basham (he/him/his)
+
+I am open to communicating about collaboration if you see potential synergy between our work. 
+
+If you see anything that needs attention or have suggestions, please feel free to send me a GitHub issue, an email, or reach out through any platform below.
+
+I made a [Quarto/GitHub Page website](https://candrewbasham.github.io/web/) to illustrate the items listed in my CV and to increase my coding skills, which has more information about me for those interested. 
+
+Looking forward to advancing open science and reproducible research with fellow epidemiologists, other academic researchers, and the people we work for to improve public health.
+
+Sincerely,
+
+**C. Andrew Basham, PhD**
+
+Email: [git\@andrewbasham.com](git@andrewbasham.com)
+
+Web: <https://candrewbasham.github.io/web/> 
+
+LinkedIn: <https://www.linkedin.com/in/candrewbasham/>
+
+Open Science Framework: <https://osf.io/mny8b/> 
+
+GitHub: <https://github.com/CAndrewBasham> 
+
+Bluesky: <https://bsky.app/profile/andrewbasham.bsky.social>
