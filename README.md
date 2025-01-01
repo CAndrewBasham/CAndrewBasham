@@ -1,6 +1,6 @@
-Thank you for visiting my GitHub Profile! 
-
 Hi, my name is C Andrew Basham (he/him/his)
+
+Thank you for visiting my GitHub Profile! 
 
 I am open to communicating about collaboration if you see potential synergy between our work. 
 
