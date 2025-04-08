@@ -1,25 +1,19 @@
 Hi, my name is C Andrew Basham (he/him/his)
 
-Thank you for visiting my GitHub Profile! 
+Thank you for visiting my GitHub Profile! As an epidemiologist I use GitHub to advance open science principles and practices, providing reproducible and auditable research records.
 
-If you see anything that needs attention or have suggestions, please feel free to send me a GitHub issue, an email, or reach out through any platform below.
+I also have a [Quarto/GitHub Page website](https://candrewbasham.github.io/web/), which contains my CV, portfolio with links to my works, and statistical software from published research papers. 
 
-I made a [Quarto/GitHub Page website](https://candrewbasham.github.io/web/) to illustrate the items listed in my CV and to increase my Quarto and GitHub skills. 
-
-Looking forward to advancing open science and reproducible research with fellow epidemiologists, other academic researchers, and the people we work for to improve public health.
+If you see anything that needs attention or have suggestions, please feel free to reach out.
 
 Sincerely,
 
 **C. Andrew Basham, PhD**
 
-Email: [git\@andrewbasham.com](git@andrewbasham.com)
-
-Web: <https://candrewbasham.github.io/web/> 
+Web: <https://www.andrewasham.com/> 
 
 LinkedIn: <https://www.linkedin.com/in/candrewbasham/>
 
 Open Science Framework: <https://osf.io/mny8b/> 
-
-GitHub: <https://github.com/CAndrewBasham> 
 
 Bluesky: <https://bsky.app/profile/andrewbasham.bsky.social>
