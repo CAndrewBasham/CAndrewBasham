@@ -1,6 +1,14 @@
 Hi, my name is C Andrew Basham (he/him/his)
 
-Thank you for visiting my GitHub Profile! As an epidemiologist I use GitHub to advance open science principles and practices, providing reproducible and auditable research records.
+Thank you for visiting my GitHub Profile! 
+
+I am an epidemiologist focused on:
+
+1. causal inference in survivorship research;
+2. missing data structure, and in causal inference;
+3. race and ethnicity data provenance, quality, and responsible use.
+
+I use GitHub to advance open science principles and practices by providing reproducible and auditable research.
 
 I also have a [Quarto/GitHub Page website](https://candrewbasham.github.io/web/), which contains my CV, portfolio with links to my works, and statistical software from published research papers. 
 
