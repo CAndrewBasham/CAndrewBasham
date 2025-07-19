@@ -18,7 +18,7 @@ Sincerely,
 
 **C. Andrew Basham, PhD**
 
-Web: <https://www.andrewasham.com/> 
+Web: <https://www.andrewbasham.com/> 
 
 LinkedIn: <https://www.linkedin.com/in/candrewbasham/>
 
